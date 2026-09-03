@@ -82,3 +82,17 @@ ISO-DEP
      |
      v
 APDU
+
+## Instrumentation Evidence
+
+### ISO14443-4 RATS
+![RATS capture](evidence/10_RATS_E0_80.png)
+
+### ATS Response
+![ATS capture](evidence/NFC_ATS_FIFO_Saleae_06-75-77-81-02-80.png)
+
+### ISO-DEP APDU Exchange
+![ISO-DEP APDU response](evidence/NFC_ISODEP_APDU_Response_02-6A-87-3E-78.png)
+
+### Full Platform Capture
+![NFC platform capture](evidence/NUCLEO_ST25R3916_ISO14443A_ISODEP_APDU.png)
