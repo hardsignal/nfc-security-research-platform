@@ -521,7 +521,7 @@ static void st25_isodep_test(void)
     isodep_tx[5] = apdu_cmd[4];
     apdu_cmd[0] = 0x00U;
     apdu_cmd[1] = 0xA4U;
-    apdu_cmd[2] = 0x04U;
+    apdu_cmd[2] = 0x05U;
     apdu_cmd[3] = 0x00U;
     apdu_cmd[4] = 0x00U;
     isodep_tx[1] = 0x00U;
