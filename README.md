@@ -56,7 +56,7 @@ Parsed firmware state:
 - PCB: `02`
 - INF length: `02`
 - INF[0]: `6A`
-- INF[1]: `70`
+- INF[1]: `87`
 - SW1: `6A`
 - SW2: `87`
 - CRC_A: `3E 78`
