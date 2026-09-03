@@ -1,4 +1,4 @@
-# Project 2 — NFC Security Research Platform
+# nfc-security-research-platform
 
 **Hardsignal Labs**
 
