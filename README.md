@@ -65,23 +65,24 @@ Parsed firmware state:
 
 ```text
 STM32F446RE
-     |
-     | SPI
-     v
+    |
+    | SPI
+    v
 ST25R3916B
-     |
-     | RF
-     v
+    |
+    | RF
+    v
 NFC-A / ISO14443
-     |
-     v
+    |
+    v
 ISO14443-4
-     |
-     v
+    |
+    v
 ISO-DEP
-     |
-     v
+    |
+    v
 APDU
+```
 
 ## Instrumentation Evidence
 
