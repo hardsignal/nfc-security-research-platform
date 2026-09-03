@@ -566,6 +566,7 @@ static void st25_isodep_test(void)
         st25_read_fifo((uint8_t *)isodep_rx, isodep_rx_len);
         isodep_pcb = isodep_rx[0];
         isodep_inf0 = isodep_rx[1];
+        isodep_inf1 = isodep_rx[2];
 
         if (isodep_rx_len >= 5U)
         {
